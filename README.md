@@ -1,2 +1,2 @@
-# IUP_LABS
+# Iamage Understanding And Processing Lab Questions and Answers
  
