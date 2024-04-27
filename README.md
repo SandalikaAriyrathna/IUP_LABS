@@ -1,2 +1,2 @@
-# Iamage Understanding And Processing Lab Questions and Answers
+# Image Understanding And Processing Lab Questions and Answers
  
